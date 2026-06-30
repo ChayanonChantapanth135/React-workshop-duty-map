@@ -1,0 +1,125 @@
+{
+  "personnel": [
+    {
+      "id": "1",
+      "name": "สมชาย ใจดี",
+      "position": "หัวหน้าเวร",
+      "avatar": "👨‍✈️"
+    },
+    {
+      "id": "2",
+      "name": "สมหญิง รักงาน",
+      "position": "รองหัวหน้า",
+      "avatar": "👩‍✈️"
+    },
+    {
+      "id": "3",
+      "name": "วิชัย มานะ",
+      "position": "เจ้าหน้าที่",
+      "avatar": "👨‍💼"
+    },
+    {
+      "id": "4",
+      "name": "สุดา สวยงาม",
+      "position": "เจ้าหน้าที่",
+      "avatar": "👩‍💼"
+    },
+    {
+      "id": "5",
+      "name": "ประยุทธ ขยัน",
+      "position": "เจ้าหน้าที่",
+      "avatar": "👨‍🔧"
+    },
+    {
+      "id": "6",
+      "name": "มาลี ยิ้มแย้ม",
+      "position": "เจ้าหน้าที่",
+      "avatar": "👩‍🔧"
+    },
+    {
+      "id": "3724",
+      "name": "ชยานนท์ จันทพันธ์",
+      "position": "เจ้าหน้าที่",
+      "avatar": "👨‍💼"
+    },
+    {
+      "id": "fab8",
+      "name": "Ada Wong",
+      "position": "หัวหน้าเวร",
+      "avatar": "👨‍✈️"
+    },
+    {
+      "id": "98e7",
+      "name": "Drara Manok",
+      "position": "หัวหน้าเวร",
+      "avatar": "👨‍✈️"
+    }
+  ],
+  "locations": [
+    {
+      "id": "cb7e",
+      "name": "จุดที่ 3",
+      "lat": 14.908148551327852,
+      "lng": 101.0732102394104,
+      "maxCapacity": 5
+    },
+    {
+      "id": "1d99",
+      "name": "james",
+      "lat": 14.280353935824234,
+      "lng": 101.72653198242189,
+      "maxCapacity": 5
+    },
+    {
+      "id": "eb0d",
+      "name": "ดูประการัง",
+      "lat": 13.15437605541853,
+      "lng": 100.47958374023438,
+      "maxCapacity": 5
+    },
+    {
+      "id": "a7fc",
+      "name": "1",
+      "lat": 12.665033013153787,
+      "lng": 101.23747408390047,
+      "maxCapacity": 5
+    }
+  ],
+  "locationPersonnel": [
+    {
+      "id": "9fa5",
+      "personId": "1",
+      "locationId": "eb0d"
+    },
+    {
+      "id": "c679",
+      "personId": "1",
+      "locationId": null
+    },
+    {
+      "id": "3b7e",
+      "personId": "1",
+      "locationId": null
+    },
+    {
+      "id": "478f",
+      "personId": "1",
+      "locationId": null
+    },
+    {
+      "id": "2f12",
+      "personId": "1",
+      "locationId": null
+    },
+    {
+      "id": "c6fa",
+      "personId": "1",
+      "locationId": null
+    },
+    {
+      "id": "108f",
+      "personId": "98e7",
+      "locationId": "eb0d"
+    }
+  ]
+}
